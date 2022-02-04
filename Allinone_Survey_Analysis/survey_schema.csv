@@ -1,0 +1,59 @@
+Column,Question
+Timestamp,Timestamp
+PhoneUser,Do you own a mobile phone?
+MobileBanking,Do you use your mobile phone for any financial/ banking transactions?
+BankAccount,Do you operate a bank account?
+AccountType,What type of bank account do you operate?
+ServiceProvider,Who provides your mobile banking service?
+PlusBankaccount,Is your mobile banking service an addition to existing bank account or separate service?
+TransactionActivity,What type of Mobile Money transaction do you frequently make use? (Select all that applies)
+Airtime,How often do you make perform transactions based on the above [Airtime recharge]
+FundTransfer,How often do you make perform transactions based on the above [Fund transfer]
+Inquiries,How often do you make perform transactions based on the above [Balance inquiry / Bank statement]
+BillPayment,How often do you make perform transactions based on the above [Bill payment]
+IntlRemittance,How often do you make perform transactions based on the above [International Remittance]
+Savings,How often do you make perform transactions based on the above [Savings]
+Withdrawals,How often do you make perform transactions based on the above [Cash withdrawal]
+Purchasing,How often do you make perform transactions based on the above [Purchasing]
+Investments,How often do you make perform transactions based on the above [Commodity dealing / investment]
+PensionFund,How often do you make perform transactions based on the above [Pension fund management]
+TransferFunnel, How do you typically transfer money? (Select all that applies)
+SendRecieve,"Do you generally send, receive, or do both (send and receive)?"
+Transfer_Family,With whom do you generally undertake transfer of funds? [Family ]
+Transfer_Friends,With whom do you generally undertake transfer of funds? [Friends]
+Employer_Employee,With whom do you generally undertake transfer of funds? [Employer/Employee ]
+Transfer_Government,"With whom do you generally undertake transfer of funds? [Government (Remita, e.t.c)]"
+BillPayments,How do you typically pay your bills? (Select all that applies)
+BillpaymentType,What type of bills do you pay on your mobile phone? (Select all that applies)
+Accessibility,Do you think Mobile banking services are easily accessible than traditional banking services?
+BankKnowledge,"On a scale of 1 to 3 (low to high), how would you rate your knowledge of all the banking services available through your [Bank]"
+MBSKnowledge,"On a scale of 1 to 3 (low to high), how would you rate your knowledge of all the banking services available through your [Mobile banking service]"
+MobileUsability,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, how would you rate your ability to use the following devices? [Mobile Phone ]"
+ATMUsability,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, how would you rate your ability to use the following devices? [ATM machine]"
+InternetUsability,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, how would you rate your ability to use the following devices? [Internet]"
+POSUsability,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, how would you rate your ability to use the following devices? [POS]"
+DebitcardUsability,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, how would you rate your ability to use the following devices? [Debit card]"
+PrepaidcardUsability,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, how would you rate your ability to use the following devices? [Prepaid card]"
+Navigation,"On a scale of 1 to 3, 1 being Not True and 3 being True, How would you rate the following statements about your mobile banking menu on your phone?  [My mobile banking menu is very easy to navigate]"
+Understandable,"On a scale of 1 to 3, 1 being Not True and 3 being True, How would you rate the following statements about your mobile banking menu on your phone?  [My mobile banking menu is very easy to understand]"
+Payment,"On a scale of 1 to 3, 1 being Not True and 3 being True, How would you rate the following statements about your mobile banking menu on your phone?  [It is easy to make a payment]"
+Transfer_Ease,"On a scale of 1 to 3, 1 being Not True and 3 being True, How would you rate the following statements about your mobile banking menu on your phone?  [t is easy to make transfer money]"
+InquiryEase,"On a scale of 1 to 3, 1 being Not True and 3 being True, How would you rate the following statements about your mobile banking menu on your phone?  [It is easy to make a balance inquiry]"
+BST_Overall,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, please rate your view on mobile banking service? [Overall Trust]"
+BST_banks,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, please rate your view on mobile banking service? [Trust in banks]"
+BST_technology,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, please rate your view on mobile banking service? [Trust in the technology of mobile banking]"
+BST_thirdparty,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, please rate your view on mobile banking service? [Trust in third party agent (e.g., pay outlet, cash-out point]"
+Security,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, please rate your view on mobile banking service? [Security from fraud]"
+Usage,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, please rate your view on mobile banking service? [Ease of use]"
+Cost,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, how would you rate the following benefits of Mobile Banking? [Cost saving (Lower rates, transaction fees) 1 2 3 4 5]"
+Time,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, how would you rate the following benefits of Mobile Banking? [Time saving (no need to go to bank or ATM)]"
+Access,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, how would you rate the following benefits of Mobile Banking? [24 h Access (can make transaction any time)]"
+Physical_security,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, how would you rate the following benefits of Mobile Banking? [Physical security (no need to go out with cash)]"
+Specifics,"On a scale of 1 to 3, 1 being the lowest and 3 being the highest, how would you rate the following benefits of Mobile Banking? [Others (please specify)_________]"
+LTC_Importance,Please rate how important the following reasons are for you to consider using mobile banking (Single Coding for each option): 1 is Very Important to 3 which is Not Important At All [Lower transaction costs]
+SFF_Importance,Please rate how important the following reasons are for you to consider using mobile banking (Single Coding for each option): 1 is Very Important to 3 which is Not Important At All [Security from fraud]
+PS_Importance,Please rate how important the following reasons are for you to consider using mobile banking (Single Coding for each option): 1 is Very Important to 3 which is Not Important At All [Physical security]
+Feedback_Importance,Please rate how important the following reasons are for you to consider using mobile banking (Single Coding for each option): 1 is Very Important to 3 which is Not Important At All [Safe transaction with feedback on transfer (e.g. sms)]
+Range_Importance,Please rate how important the following reasons are for you to consider using mobile banking (Single Coding for each option): 1 is Very Important to 3 which is Not Important At All [Wide acceptance of mobile money]
+TA__Importance,Please rate how important the following reasons are for you to consider using mobile banking (Single Coding for each option): 1 is Very Important to 3 which is Not Important At All [More locations I can cash-out my money]
+Specific_Importance,Please rate how important the following reasons are for you to consider using mobile banking (Single Coding for each option): 1 is Very Important to 3 which is Not Important At All [Other (specify)]
